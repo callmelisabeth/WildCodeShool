@@ -1,0 +1,52 @@
+*
+{
+    font-family: 'Raleway', sans-serif;
+
+}
+
+header img {
+    max-width: 96px;
+  }
+
+ /* Formulaire */
+.form
+{
+    border-radius: 12px;
+    padding: 50px;
+    background: #f76c6c;
+    color: #fff;
+}
+
+button
+{
+ background-color: beige;
+ color: #fff;
+}
+
+
+.table
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    color:black;
+ 
+    
+}
+.strong 
+{
+   
+    font-weight: bolder;
+}
+  /* Footer */
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    padding-top: 0.5;
+    text-align: center;
+    color: #fff;
+    background: #f76c6c;
+
+  }  
